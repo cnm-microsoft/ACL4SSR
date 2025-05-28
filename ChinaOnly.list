@@ -1,18 +1,7 @@
-#DOMAIN
-#匹配完整域名
-#DOMAIN-SUFFIX
-#匹配域名后缀
-#DOMAIN-KEYWORD
-#使用域名关键字匹配
-#DOMAIN-REGEX
-#域名正则表达式匹配
-#自用
 DOMAIN-SUFFIX,040726.xyz
 DOMAIN-SUFFIX,nzh-nas.top
 DOMAIN-SUFFIX,nzh-nas.me
-#直连域名
 DOMAIN-SUFFIX,kkgithub.com
-
 DOMAIN-SUFFIX,bgithub.xyz
 DOMAIN-SUFFIX,dgithub.xyz
 DOMAIN-SUFFIX,fgithub.xyz
@@ -20,7 +9,6 @@ DOMAIN-SUFFIX,hgithub.xyz
 DOMAIN-SUFFIX,igithub.xyz
 DOMAIN-SUFFIX,jgithub.xyz
 DOMAIN-SUFFIX,lgithub.xyz
-
 DOMAIN-SUFFIX,4git.xyz
 DOMAIN-SUFFIX,5git.xyz
 DOMAIN-SUFFIX,6git.xyz
@@ -28,5 +16,4 @@ DOMAIN-SUFFIX,mgithub.xyz
 DOMAIN-SUFFIX,ngithub.xyz
 DOMAIN-SUFFIX,ogithub.xyz
 DOMAIN-SUFFIX,pgithub.xyz
-
 DOMAIN,hub.whtrys.space
